@@ -1,0 +1,22 @@
+header{
+    text-align: center;
+    border:1px solid black;
+    padding:solid blue;
+
+}
+#titulo{
+    color: red;
+    font-size: 20px;
+}
+
+#secciones{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0;
+}
+.seccion{
+    list-style-type: none;
+    border: 1px solid black;
+    margin: auto;
+}
